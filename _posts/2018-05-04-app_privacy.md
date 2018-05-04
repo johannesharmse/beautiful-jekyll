@@ -43,7 +43,7 @@ But what about other mobile apps? In reality, it isn't Google or Facebook who mo
 
 With the Android example (iOS isn't much different), any app developer can include [API calls](https://developer.android.com/training/location/display-address.html) in their app's code that allows them to receive a user's exact location (they can even request the most likely street address of the user's location).
 
-![https://developer.android.com/training/location/display-address.html](images/android_address.PNG)
+![https://developer.android.com/training/location/display-address.html](/img/blog/app_privacy/android_address.PNG)
 
 Android's app store, Google Play, is fairly lenient with regards to what app developers do within their apps, as long as they [request permission](https://developer.android.com/training/location/retrieve-current.html) from their users. An app simply has to ask whether they can access your location, messages, photos, etc. and if you agree, they have every right do to so.
 
