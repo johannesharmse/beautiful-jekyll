@@ -1,3 +1,8 @@
+---
+title: Biting the Hand that Feeds
+subtitle: Has the end of privacy arrived?
+---
+
 # Biting the Hand that Feeds
 
 It is no secret - smartphones and network connectivity have become the foundation of essentially every human need on the Maslow pyramid. If Syrian refugees are of the opinion that a smartphone is [more important than food](http://www.independent.co.uk/news/world/europe/why-do-refugees-have-smartphones-syrian-woman-explains-perfectly-refugee-crisis-a7025356.html), it would be ignorant of developed country citizens to believe otherwise.
