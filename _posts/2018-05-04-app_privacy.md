@@ -8,7 +8,7 @@ It is no secret - smartphones and network connectivity have become the foundatio
 <p align="center">
   <figure align="center">
     <img src="/img/blog/app_privacy/maslow.jpg" width="228" height="228" title="https://www.pacetechnical.com/fast-wifi-basic-human-needs/" style="border: #404040 2px solid;">
-    <figcaption> <a href="https://www.pacetechnical.com/fast-wifi-basic-human-needs/">Image</a>: A modern take on Maslow's Hierarchy of Needs.</figcaption>
+    <figcaption> <a href="https://www.pacetechnical.com/fast-wifi-basic-human-needs/">Image</a>: A modern take on Maslow's<br>Hierarchy of Needs.</figcaption>
   </figure>
 </p>
 
