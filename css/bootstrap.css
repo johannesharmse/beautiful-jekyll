@@ -1079,7 +1079,7 @@ body {
   line-height: 1.42857143;
   color: #333;
   background-color: #fff;
-  # background-color: rgba(47, 63, 64, 0.9);
+  opacity: 0.2;
 }
 input,
 button,
