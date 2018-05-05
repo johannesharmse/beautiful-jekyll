@@ -7,7 +7,7 @@ It is no secret - smartphones and network connectivity have become the foundatio
 
 <p align="center">
   <figure align="center">
-    <img src="/img/blog/app_privacy/maslow.jpg" width="228" height="228" title="https://www.pacetechnical.com/fast-wifi-basic-human-needs/">
+    <img src="/img/blog/app_privacy/maslow.jpg" width="228" height="228" title="https://www.pacetechnical.com/fast-wifi-basic-human-needs/" style="border: #404040 2px solid;">
     <figcaption> <a href="https://www.pacetechnical.com/fast-wifi-basic-human-needs/">Image</a>: A modern take on Maslow's Hierarchy of Needs.</figcaption>
   </figure>
 </p>
@@ -30,7 +30,7 @@ The screenshot below shows a single [personal location](https://support.google.c
 
 <p align="center">
   <figure align="center">
-    <img src="/img/blog/app_privacy/activity_4.PNG" title="Location">
+    <img src="/img/blog/app_privacy/activity_4.PNG" title="Location" style="border: #404040 2px solid;">
     <figcaption>Image: Personal Location Data as captured by Google.</figcaption>
   </figure>
 </p>
@@ -39,7 +39,7 @@ By tracking location data this frequently, they can predict things like the acti
 
 <p align="center">
   <figure align="center">
-    <img src="/img/blog/app_privacy/activity_2.PNG" title="Activity">
+    <img src="/img/blog/app_privacy/activity_2.PNG" title="Activity" style="border: #404040 2px solid;">
     <figcaption>Image: Personal Activity Data as captured by Google.</figcaption>
   </figure>
 </p>
@@ -48,7 +48,7 @@ It can be argued that this is not ethical. It can also be argued that you as a G
 
 <p align="center">
   <figure align="center">
-    <img src="/img/blog/app_privacy/google_timeline.PNG" title="Timeline">
+    <img src="/img/blog/app_privacy/google_timeline.PNG" title="Timeline" style="border: #404040 2px solid;">
     <figcaption>Image: Reminiscing about a day in Hawaii, thanks to Google. </figcaption>
   </figure>
 </p>
@@ -65,7 +65,7 @@ With the Android example (iOS isn't much different), any app developer can inclu
 
 <p align="center">
   <figure align="center">
-    <img src="/img/blog/app_privacy/android_address.PNG" title="https://developer.android.com/training/location/display-address.html">
+    <img src="/img/blog/app_privacy/android_address.PNG" title="https://developer.android.com/training/location/display-address.html" style="border: #404040 2px solid;">
     <figcaption> <a href="https://developer.android.com/training/location/display-address.html">Image</a>: The Android Developer's guide on how to capture location data from app users.</figcaption>
   </figure>
 </p>
