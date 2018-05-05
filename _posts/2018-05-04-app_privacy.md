@@ -5,7 +5,9 @@ subtitle: Has the end of privacy arrived?
 
 It is no secret - smartphones and network connectivity have become the foundation of essentially every human need on the Maslow pyramid. If Syrian refugees are of the opinion that a smartphone is [more important than food](http://www.independent.co.uk/news/world/europe/why-do-refugees-have-smartphones-syrian-woman-explains-perfectly-refugee-crisis-a7025356.html), it would be ignorant of developed country citizens to believe otherwise.
 
-![https://www.pacetechnical.com/fast-wifi-basic-human-needs/](/img/blog/app_privacy/maslow.jpg)
+<p align="center">
+  <img src="/img/blog/app_privacy/maslow.jpg" title="https://www.pacetechnical.com/fast-wifi-basic-human-needs/">
+</p>
 
 Quoting the slam poet, [Watsky](https://genius.com/Watsky-awesome-phone-commercial-lyrics), "it's more than a smartphone, it's a [Mensa](https://en.wikipedia.org/wiki/Mensa_International)". We use smartphones for everything - navigation, socializing, banking, dating, shopping, transportation, research, and everything in between. Mobile app development has shifted from trying to figure out how to satisfy known public's needs, to figuring out what the public's needs are before the public does.
 
@@ -23,15 +25,21 @@ The data that is being collected on you, isn't simply a list of your general int
 
 The screenshot below shows a single [personal location](https://support.google.com/accounts/answer/3024190?hl=en) snapshot. This information [isn't being made public](https://privacy.google.com/your-data.html) by Google, but it is being captured without people realizing it. Google continuously captures your exact location that is usually not more than a few meters off.
 
-![Location](/img/blog/app_privacy/activity_4.PNG)
+<p align="center">
+  <img src="/img/blog/app_privacy/activity_4.PNG" title="Location">
+</p>
 
 By tracking location data this frequently, they can predict things like the activity that you are currently performing.
 
-![Activity](/img/blog/app_privacy/activity_2.PNG)
+<p align="center">
+  <img src="/img/blog/app_privacy/activity_2.PNG" title="Activity">
+</p>
 
 It can be argued that this is not ethical. It can also be argued that you as a Google user has accepted the terms of service and [privacy policy](https://www.google.com/policies/privacy/), and therefore Google has every right to do the things that you have agreed to. It can be argued that Google is nice enough to actually show you what data they are capturing. They even have an entertaining [timeline](https://www.google.com/maps/timeline?pb) feature that allows you to walk down memory lane and see exactly what you did on any given day.
 
-![Timeline](/img/blog/app_privacy/google_timeline.PNG)
+<p align="center">
+  <img src="/img/blog/app_privacy/google_timeline.PNG" title="Timeline">
+</p>
 
 The image above, shows my personal activity during a day in Hawaii. It must be noted that, even though I had my phone with me on this day, I did not have any cellular service or WIFI connection throughout the entire day. I do not have an American SIM card, which makes the availability of this data more intriguing.
 
@@ -43,7 +51,9 @@ But what about other mobile apps? In reality, it isn't Google or Facebook who mo
 
 With the Android example (iOS isn't much different), any app developer can include [API calls](https://developer.android.com/training/location/display-address.html) in their app's code that allows them to receive a user's exact location (they can even request the most likely street address of the user's location).
 
-![https://developer.android.com/training/location/display-address.html](/img/blog/app_privacy/android_address.PNG)
+<p align="center">
+  <img src="/img/blog/app_privacy/android_address.PNG" title="https://developer.android.com/training/location/display-address.html">
+</p>
 
 Android's app store, Google Play, is fairly lenient with regards to what app developers do within their apps, as long as they [request permission](https://developer.android.com/training/location/retrieve-current.html) from their users. An app simply has to ask whether they can access your location, messages, photos, etc. and if you agree, they have every right do to so.
 
