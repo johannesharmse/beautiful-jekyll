@@ -15,6 +15,9 @@ body {
   {% if site.page-img %}
   background-image: url({{ site.page-img }});
   background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   {% endif %}
 }
 p {
