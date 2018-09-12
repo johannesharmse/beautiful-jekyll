@@ -1,5 +1,5 @@
 ---
-title: Writing a Function
+title: Programming a Function
 subtitle: Discovering the Fun in Functions
 mathjax: true
 ---
