@@ -4,8 +4,6 @@ subtitle: Discovering the Fun in Functions
 mathjax: true
 ---
 
-$$ y = 5x + 2 $$
-
 When the need arises to write a function in a programming language, it can often feel overwhelming! Most people stay away from writing their own functions and often rely on other packages or modules to find an appropriate way to solve a problem.
 
 **However, functions are not as complex as you might think!**
@@ -25,16 +23,16 @@ Mathematical functions are written in the same format as programming functions. 
 
 $$ y = 5x + 2 $$
 
-* It has an input variable: $x$
+* It has an input variable: $$ x $$
 * The input variable, $x$, can have any specified numerical value: Eg. $$ x = 4 $$
-* It has an output variable: $y$
-* the output variable, $y$, is calculated by substituting the specified value of $x$ (eg. $x = 4$) into the equation: $y = 5*4 + 2 = 22$
+* It has an output variable: $$ y $$
+* the output variable, $y$, is calculated by substituting the specified value of $$ x $$ (eg. $$ x = 4 $$) into the equation: $$ y = 5*4 + 2 = 22 $$
 
 These characteristics are exactly the same when writing a function in a programming language, such as R or Python.
 
-We can test this hypothesis on a standard function. In most programming languages there is usually a pre-defined `sum` function. The objective of this function is to add a series of specified numerical values. If we want to calculate $y$ by using the `sum` function, where
+We can test this hypothesis on a standard function. In most programming languages there is usually a pre-defined `sum` function. The objective of this function is to add a series of specified numerical values. If we want to calculate $$ y $$ by using the `sum` function, where
 
-$$y = 1 + 0 + 2 - 3 + 5$$
+$$ y = 1 + 0 + 2 - 3 + 5 $$
 
 we would write it as follows:
 
