@@ -1,5 +1,5 @@
 ---
-title: Programming a Function
+title: Writing a Function
 subtitle: Discovering the Fun in Functions
 mathjax: true
 ---
@@ -26,7 +26,7 @@ $$ y = 5x + 2 $$
 * It has an input variable: $$ x $$
 * The input variable, $$ x $$, can have any specified numerical value: Eg. $$ x = 4 $$
 * It has an output variable: $$ y $$
-* the output variable, $$ y $$, is calculated by substituting the specified value of $$ x $$ (eg. $$ x = 4 $$) into the equation: $$ y = 5*4 + 2 = 22 $$
+* The output variable, $$ y $$, is calculated by substituting the specified value of $$ x $$ (eg. $$ x = 4 $$) into the equation: $$ y = 5*4 + 2 = 22 $$
 
 These characteristics are exactly the same when writing a function in a programming language, such as R or Python.
 
