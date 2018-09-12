@@ -11,12 +11,12 @@ My lightbulb moment came when I realized how closely mathematics and programming
 
 Let's first have a look at mathematical functions.
 
-<br>
-
-<center><img style="width: 300px;"src="images/sin.jpg"></center>
-<center>Source: www.imgflip.com</center>
-
-<br>
+<p align="center">
+  <figure align="center">
+    <img src="/img/blog/writing_a_function/sin.jpg" width="228" height="228" title="www.imgflip.com" style="border: #404040 2px solid;">
+    <figcaption>Source: <a href="www.imgflip.com">imgflip</a></figcaption>
+  </figure>
+</p>
 
 Mathematical functions are written in the same format as programming functions. Have a look at the characteristics of the following linear function:
 
