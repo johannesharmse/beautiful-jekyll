@@ -94,8 +94,3 @@ The code above tells the computer what to do when the coder wants to `sum` a ser
 * the output variable, `y`, is calculated by performing the commands within the function.
 
 This is the essence of writing a function. I hope that this has helped you in your quest in writing and understanding functions. Now it is time to apply your theoretical knowledge of functions in the real world! Enjoy!
-
-***
-
-</div>
-</br>
