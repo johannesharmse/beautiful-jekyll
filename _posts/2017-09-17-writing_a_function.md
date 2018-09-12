@@ -3,6 +3,8 @@ title: Programming a Function
 subtitle: Discovering the Fun in Functions
 ---
 
+$$ y = 5x + 2 $$
+
 When the need arises to write a function in a programming language, it can often feel overwhelming! Most people stay away from writing their own functions and often rely on other packages or modules to find an appropriate way to solve a problem.
 
 **However, functions are not as complex as you might think!**
@@ -20,7 +22,7 @@ Let's first have a look at mathematical functions.
 
 Mathematical functions are written in the same format as programming functions. Have a look at the characteristics of the following linear function:
 
-$$y = 5x + 2$$
+$$ y = 5x + 2 $$
 
 * It has an input variable: $x$
 * The input variable, $x$, can have any specified numerical value: Eg. $$ x = 4 $$
