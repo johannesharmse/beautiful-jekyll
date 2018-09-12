@@ -1,6 +1,7 @@
 ---
 title: Programming a Function
 subtitle: Discovering the Fun in Functions
+mathjax: true
 ---
 
 $$ y = 5x + 2 $$
